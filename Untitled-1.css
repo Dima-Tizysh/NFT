@@ -1,0 +1,733 @@
+
+@media  (max-width: 1440px){
+
+    .navbar { max-width: 1440px;
+    }
+    
+    .main { max-width: 1440px;
+       
+    }
+   
+    .about {
+        max-width: 1440px;
+        
+    }
+    .collection {
+        max-width: 1440px;
+        
+        
+    }
+    .roadmap {
+        max-width: 1440px;
+
+    }
+    .faq { max-width: 1440px;
+    }
+    .invitation {
+        max-width: 1440px;
+    }
+    footer{
+        max-width: 1440px;
+    }
+}
+@media  (max-width: 1280px){
+
+    .navbar { max-width: 1180px;
+    }
+    nav>li>a{
+        font-size: 16px;
+    }
+    .nav-language>li>a {
+        font-size: 13px;}
+    .text>p{
+        width: 329px;
+    }
+    .main { max-width: 1180px;
+        /* max-height: 640px; */
+    }
+    .text{max-width: 400px;
+        
+    }
+    .all {max-width:345px;
+    }
+    .about {
+        max-width: 1180px;
+       max-height: 952px;
+    }
+    .collection {
+        max-width: 1500px;
+        background-color: #E5E5E5;
+        
+    }
+    .roadmap {
+        max-width: 1180px;
+
+    }
+    .faq { max-width: 1180px;
+    }
+    .invitation {
+        max-width: 1180px;
+    }
+    footer{
+        max-width: 1180px;
+    }
+}
+@media  (max-width: 1024px){
+
+    .main-nav--nojs .main-nav__toggle {display: block;}
+    .img>img{
+        width: 200px;
+    }
+
+    .navbar { max-width: 744px;
+       
+    }
+    hr{
+        display: block;
+        color: black;
+    }
+    .nav{
+        display: none;
+        position: absolute;
+        left: 88%;
+        top: 6%;
+    }
+    
+    .nav-icon{
+        padding-left: 77px;
+    }
+    .main { max-width: 800px;
+        position: relative;
+        height: 1200px;
+        /* padding-bottom: 586px */
+        
+    }
+    .main>a{
+        top: 147%;
+    left: 37%;
+    }
+    .text{max-width: 413px;
+        position: absolute;
+        top: -12%;
+        left: 23%;
+        
+    }
+    .text>h1{
+        width: 417px;
+        font-size: 40px;
+        height: 50px;
+    }
+    .Help {width: 422px;
+        font-size: 40px;
+        height: 56px;
+    }
+    .text>p {
+        width: 329px;
+        font-size: 18px;
+    }
+    .text>a {
+        padding-top: 30px;
+        position: absolute;
+        top: 225%;
+    }
+    .all {
+        max-width: 289px;
+    position: absolute;
+    top: 61%;
+    left: 39%;
+    }
+    #active label {
+        width: 40px}
+    .about {
+        max-width: 1000px;
+
+        padding-top: 550px;
+       
+    }
+    .img-mark {
+        display: none;
+        position: absolute;
+        top: 54%;
+        left: 6%;
+    }
+    .nav-icon2{
+        padding-left: 286px;
+    }
+    .img-mark2{
+        display:block;
+        padding-left: 10%;
+        padding-top: 3%;
+
+    }
+    .text2{
+        padding-left: 80px;
+    }
+    .text2>h2{
+        padding-left: 18%;
+        height: 39px;
+    }
+    .collection {
+        max-width: 1000px;
+        background-color: #E5E5E5;
+        
+    }
+    .wid {
+        padding-left: 5%;}
+    .text3>pre{
+        padding-left: 6%;
+    }
+    .another {
+        max-width: 744px;
+        margin-left: 117px;
+    overflow: hidden;}
+    .text-another>h2{
+        padding-left: 24%;
+    padding-top: 0%;
+    }
+    .text-another>pre{
+        padding-top: 0%;
+    }
+    .cards3 {
+        top: 57%;
+    left: 46%;}
+    .roadmap {display: none;
+        max-width: 744px;
+
+    }
+    .faq { max-width: 744px;
+    }
+    .invitation {
+        max-width: 744px;
+        margin-left: 17%;
+    }
+    .roadmap2{
+        display: block;
+        padding-left: 10%;
+    padding-top: 17%;
+    }
+    
+        
+    .collapisble-text5>img{width: 500px;
+    }
+    footer{
+        max-width: 744px;
+        height: 200px;
+    }
+    .ground { max-width: 620px;
+     }
+    footer>p {left: 12%;
+        top: 40%;}
+    .nav2 {left: 22%;
+        top: 60%;}
+    .page-header {display: block;
+    }
+    .page-header--prime {display: block;
+    }
+    .main-nav { display: block;
+        z-index: 20;
+        
+    }
+    .main-nav--closed .main-nav__toggle::before{
+        display: block;
+    }
+    .main-nav__toggle {
+        display: block;
+    }
+    .main-nav__list {
+        display: block;
+    }
+    .main-nav__item {
+        display: block;
+    }
+
+    .main-nav__item--active {
+        display: block;
+    }
+    .main-nav__link {
+        display: block;
+    }
+    .main-nav__link--active {
+        display: block;
+    }
+    .page-header__logo-link-color { display: block;
+}
+.img-cards8 {display: block;position: absolute;
+    top: -41%;
+    left: 7%;
+}
+
+.img-cards7 {display: none;}
+
+.ground>p{
+    padding-top: 15%;
+    
+    padding-left: 15%;
+}
+.ground>a {
+    padding-left: 25%;
+}
+.nav-icon>li>a{
+    padding-left: 20px;
+}
+.nav-language{
+     display: none; 
+  } 
+}
+
+
+
+
+@media  (max-width: 800px) {
+    .main-nav--nojs .main-nav__toggle {display: block;}
+    .img>img{
+        width: 200px;
+    }
+
+    .navbar { max-width: 744px;
+       
+    }
+    hr{
+        display: block;
+        color: black;
+    }
+    .nav{
+        display: none;
+        position: absolute;
+        left: 88%;
+        top: 6%;
+    }
+    
+    .nav-icon{
+        padding-left: 77px;
+    }
+    .main { max-width: 800px;
+        position: relative;
+        height: 1200px;
+        /* padding-bottom: 586px */
+        
+    }
+    .main>a{
+        top: 156%;
+    
+    left: 24%;
+    }
+    .text{max-width: 413px;
+        position: absolute;
+        top: -18%;
+        left: 8%;
+        
+    }
+    .text>h1{
+        width: 417px;
+        font-size: 40px;
+        height: 50px;
+    }
+    .Help {width: 422px;
+        font-size: 40px;
+        height: 56px;
+    }
+    .text>p {
+        width: 329px;
+        font-size: 18px;
+    }
+    .text>a {
+        padding-top: 30px;
+        position: absolute;
+        top: 225%;
+    }
+    .all {
+        max-width: 289px;
+    position: absolute;
+    top: 61%;
+    left: 23%;
+    }
+    #active label {
+        width: 40px}
+    .about {
+        max-width: 800px;
+
+        padding-top: 550px;
+       
+    }
+    .img-mark {
+        display: none;
+        position: absolute;
+        top: 54%;
+        left: 6%;
+    }
+    .img-mark2{
+        display:block;
+        padding-left: 5%;
+        padding-top: 4%;
+
+    }
+    .text2{
+        padding-left: 0px;
+    }
+    .text2>h2{
+        padding-left: 18%;
+        height: 39px;
+    }
+    .collection {
+        max-width: 800px;
+        background-color: #E5E5E5;
+        
+    }
+    .text3>pre{
+        padding-left: 6%;
+    }
+    .another {
+        max-width: 744px;
+        margin-left: 33px;
+    overflow: hidden;}
+    .text-another>h2{
+        padding-left: 24%;
+    padding-top: 0%;
+    }
+    .text-another>pre{
+        padding-top: 0%;
+    }
+    .cards3 {
+        top: 57%;
+    left: 46%;}
+    .roadmap {display: none;
+        max-width: 744px;
+
+    }
+    .faq { max-width: 744px;
+    }
+    .invitation {
+        max-width: 744px;
+    }
+    .roadmap2{
+        display: block;
+        padding-left: 10%;
+    padding-top: 17%;
+    }
+    .widget_button::after {
+
+        content: url('img/question/size700/Property\ 1=Question\ closed\ 1.png');
+        
+        z-index: 5;
+        
+        }
+        
+         .widget_button--on::after {
+        
+           content: url("img/question/size700/Property\ 1=Question\ opened\ 1.png");
+           z-index: 5;
+        }
+           
+           
+           .widget_button2::after {
+        
+        content: url('img/question/size700/Property\ 1=Question\ closed\ 2.png');
+        z-index: 5;
+        
+        }
+        
+         .widget_button--on2::after {
+        
+           content: url("img/question/size700/Property\ 1=Question\ opened\ 2.png");
+           z-index: 5;
+        
+           }
+        
+           .widget_button3::after {
+        
+        content: url('img/question/size700/Property\ 1=Question\ closed\ 3\ \(1\).png');
+        z-index: 5;
+        
+        }
+        
+         .widget_button--on3::after {
+        
+           content: url("img/question/size700/Property\ 1=Question\ opened\ 3\ \(1\).png");
+           z-index: 5;
+        
+           }
+        
+           .widget_button4::after {
+        
+        content: url('img/question/size700/Property\ 1=Question\ closed\ 4.png');
+        z-index: 5;
+        
+        }
+        
+         .widget_button--on4::after {
+        
+           content: url("img/question/size700/Property\ 1=Question\ opened\ 4.png");
+           z-index: 5;
+        
+           }
+    
+    
+    
+           .widget_button-eng::after {
+    
+    
+            content: url('img/question/size700/eng/Property\ 1=Question\ closed\ 1.png');
+            z-index: 5;
+            
+            }
+            
+             .widget_button--on-eng::after {
+            
+               content: url("img/question/size700/eng/Property\ 1=Question\ opened\ 1.png");
+               z-index: 5;
+            }
+               
+               
+               .widget_button2-eng::after {
+            
+            content: url('img/question/size700/eng/Property\ 1=Question\ closed\ 2.png');
+            z-index: 5;
+            
+            }
+            
+             .widget_button--on2-eng::after {
+            
+               content: url("img/question/size700/eng/Property\ 1=Question\ opened\ 2.png");
+               z-index: 5;
+            
+               }
+            
+               .widget_button3-eng::after {
+            
+            content: url('img/question/size700/eng/Property\ 1=Question\ closed\ 3\ \(1\).png');
+            z-index: 5;
+            
+            }
+            
+             .widget_button--on3-eng::after {
+            
+               content: url("img/question/size700/eng/Property\ 1=Question\ opened\ 3\ \(1\).png");
+               z-index: 5;
+            
+               }
+            
+               .widget_button4-eng::after {
+            
+            content: url('img/question/size700/eng/Property\ 1=Question\ closed\ 4.png');
+            z-index: 5;
+            
+            }
+            
+             .widget_button--on4-eng::after {
+            
+               content: url("img/question/size700/eng/Variant9.png");
+               z-index: 5;
+            
+               }
+               .wid {
+                padding-left: 36%;}
+        
+    .collapisble-text5>img{width: 500px;
+    }
+    footer{
+        max-width: 744px;
+        height: 556px;
+    }
+    .ground { max-width: 620px;
+        margin-left: -1%;
+     }
+    footer>p {left: 12%;
+        top: 27%;}
+    .nav2 {left: 22%;
+        top: 38%;}
+    .page-header {display: block;
+    }
+    .page-header--prime {display: block;
+    }
+    .main-nav { display: block;
+        z-index: 20;
+        
+    }
+    .main-nav--closed .main-nav__toggle::before{
+        display: block;
+    }
+    .main-nav__toggle {
+        display: block;
+    }
+    .main-nav__list {
+        display: block;
+    }
+    .main-nav__item {
+        display: block;
+    }
+
+    .main-nav__item--active {
+        display: block;
+    }
+    .main-nav__link {
+        display: block;
+    }
+    .main-nav__link--active {
+        display: block;
+    }
+    .page-header__logo-link-color { display: block;
+}
+.img-cards8 {display: block;position: absolute;
+    top: -41%;
+    left: 7%;
+}
+
+.img-cards7 {display: none;}
+
+.ground>p{
+    padding-top: 15%;
+    
+    padding-left: 15%;
+}
+.ground>a {
+    padding-left: 25%;
+}
+.nav-icon>li>a{
+    padding-left: 20px;
+}
+.nav-language{
+     display: none; 
+  } 
+}
+@media  (max-width: 560px) {
+    .nav-icon {display: none;
+}
+.navbar { max-width: 414px;
+}
+.img {
+    padding-left: 9px;
+}
+
+.main { max-width: 414px;
+}
+.all{
+    overflow: hidden;
+}
+.text {top: -10%;
+    left: -17%;}
+.text>h1 {font-size: 32px;}
+.text>p {font-size: 16px;}
+.main-nav { position: absolute;
+    top: 16%;
+    right: -78%;}
+    
+.main>a {
+        
+        left: 11%;}   
+.about { max-width: 414px;
+}
+.text2{
+    padding-left: 0px;
+}
+.text2>h2{
+    padding-left: 10%;
+    height: 39px;
+    font-size: 35px;
+}
+.text2>p {font-size: 15px;
+    padding-left: 10px;
+}
+.One {
+    width: 345px;}
+    .next {
+        
+        width: 392px;
+    }
+    .white {
+        width: 390px;
+        padding-top: 18%;
+    }
+        .note {
+            
+            width: 393px;
+        }  
+        .img-mark2{display: none;}  
+        .img-mark3{
+            display: block;
+            position: absolute;
+            top: 63%;
+    left: 6%;
+        }
+        .nav-icon2 { padding-left: 0px;   }
+.collection { max-width: 414px;
+
+}
+
+.text3>h2 {font-size: 35px;
+    padding-left: 8%;
+}
+.text3>pre { font-size: 12px;
+padding-left: 0%;}
+.button {
+    padding-left: 8%;}
+
+.another{max-width: 414px;
+    margin-left: 0px;
+}
+.text-another>h2 {font-size: 25px;
+
+}
+.text-another>pre {font-size: 13px;
+    margin: 0px;
+}
+.cards3 {
+    display: none;
+}
+.cards90 {display: block;
+    padding-left: 28%;
+}
+.img5 {
+    display: none;
+}
+.img79 {display: block;
+    padding-left: 11%;
+}
+.roadmap { max-width: 414px;
+}
+.roadmap2 {display: none;
+}
+.roadmap3 {display: block;
+    padding-left: 13%;
+    padding-top: 23%;
+}
+.faq {  max-width: 414px;
+}
+.wid {
+    padding-left: 20%;
+}
+.ground {max-width: 414px;
+    
+    left: -19%;
+}
+.ground>p {font-size: 18px;}
+.ground>a {
+    padding-left: 12%;}
+    .img-cards8 {display: none;   }
+    .img-cards23 {display: block;position: absolute;
+        top: -43%;
+        left: 31%;
+    }
+    .Elipse-small {display: none;}
+footer{
+    max-width: 414px;
+}
+footer>p {
+top: 12%;}
+.nav2{
+     
+    display: block;
+    top: 26%;
+    left: 2%;
+}
+.nav-icon5 {display: block;
+padding-left: 0px;
+    position: absolute;
+    left: 60%;
+    top: 25%;
+}
+.invitation {
+    max-width: 414px;
+}
+.main-nav__toggle {top: -90px;
+}
+}

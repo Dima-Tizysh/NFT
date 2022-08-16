@@ -1,0 +1,114 @@
+.page-header {
+  width: 235px;
+  
+  background-image: url(https://s1.1zoom.ru/b5050/596/281190-Sepik_1400x1050.jpg);
+   /* position: absolute;
+  top: -8%;
+  left: 131%;  */
+  /* background:linear-gradient(180deg, #FFFFFF 0%,rgba(217, 217, 217, 0) 100%); */
+  
+  }
+  
+  .main-nav {
+    position: absolute;
+    top: 20%;
+    right: -81%;
+  
+    width: 100%;
+  
+   
+   }
+   
+   .main-nav__toggle {
+    
+    z-index:1 ; 
+    /* right: -5px;
+    top: -107px;
+   */
+    display: block;
+    width: 50px;
+    height: 24px;
+    margin-right: 6%;
+   }
+   
+   .main-nav--closed .main-nav__toggle::before {
+    content: "";
+  
+    position: absolute;
+    /* padding-bottom: 2px; */
+    top: -10%;
+  
+    width: 50px;
+    height: 24px;
+  
+   background-image: url(img/Component\ 4\ \(1\).png);
+  }
+  
+  .main-nav--opened .main-nav__toggle::after {
+    content: "";
+  
+    position: absolute;
+    top: -18%;
+    left: 1%;
+    width: 39px;
+    height: 26px;
+  
+    background-image: url(img/Component\ 4.png);
+   }
+   
+   .main-nav--closed .main-nav__item {
+      display: none;
+    }
+  
+    .main-nav--nojs .main-nav__toggle {
+      display: block;
+    }
+  
+    .main-nav--nojs .main-nav__wrapper {
+      position: static;
+      min-height: 0;
+    }
+  
+    .main-nav--nojs .main-nav__item {
+      display: block;
+    }
+    
+    .main-nav--closed .main-nav__list::after {
+    display: none;
+  }
+  
+  .main-nav--opened .main-nav__list {
+    min-height: 255px;
+    position: absolute;
+    /* right: -14%; */
+    top: 32%;
+    left: -21%;
+    background-color: white;
+  }
+  
+  .main-nav__list {
+    position: relative;
+    list-style: none;
+  }
+  
+  .main-nav__item {
+    position: relative;
+  
+    padding-top: 6px;
+    padding-bottom: 4px;
+  
+    text-align: center;
+  }
+  
+  .main-nav__link {
+    font-size: 20px;
+    line-height: 27px;
+    font-family: 'Open Sans';
+    font-weight: bold;
+    text-transform: uppercase;
+    color: black;
+    text-decoration: none;
+    }
+    
+  
+    
